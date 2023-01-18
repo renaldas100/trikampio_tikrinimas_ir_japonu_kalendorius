@@ -1,4 +1,4 @@
-# Trikampio tikrinimas ir japonu kalendorius
+# Trikampio tikrinimas ir japonų kalendorius
 
 Sukurti puslapiai į kuriuos galima įvesti duomenis, ir gauti atsakymą (kiekviena užduotis yra sprendžiama skirtingame puslapyje, padarytas patogus vaikščiojimas tarp užduočių (meniu)).:
 
