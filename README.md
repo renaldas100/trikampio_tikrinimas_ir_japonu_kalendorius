@@ -12,6 +12,7 @@ Sukurti puslapiai į kuriuos galima įvesti duomenis, ir gauti atsakymą (kiekvi
  9, 10, 19, 20, 29, 30, …, 59, 60 metai – juoda spalva.
 
 Žinoma, kad naujasis 60 metų ciklas prasidėjo 1984-aisiais ir baigsis 2043-iaisiais metais; 1984-ieji ir 1985-ieji buvo žalios spalvos metai, 1986-ieji ir 1987-ieji buvo raudonos spalvos metai, 2043-ieji bus juodos spalvos metai.
+
 Sukurtas puslapis kuriame yra įvedami metai ir išvedama kokia yra įvestų metų spalva pagal japonų kalendorių.
 
-Sprendžiant užduotį panaudotas switch sąkinys.
+Sprendžiant užduotį panaudotas switch sakinys.
