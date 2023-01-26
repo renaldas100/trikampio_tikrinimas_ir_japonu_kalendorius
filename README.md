@@ -1,5 +1,8 @@
 # Trikampio tikrinimas ir japonų kalendorius
 
+Naudotos technologojos PHP + BOOTSTRAP
+
+
 Sukurti puslapiai į kuriuos galima įvesti duomenis, ir gauti atsakymą (kiekviena užduotis yra sprendžiama skirtingame puslapyje, padarytas patogus vaikščiojimas tarp užduočių (meniu)).:
 
 1.  Įvedami skaičiai -a, b, c –kraštinių ilgiai (į atskirus input laukus). Parašyta PHP programą, kuri nustato, ar galima sudaryti trikampį ir išveda rezultatą. Taip pat išvedama ir kokio tipo trikampį galime sudaryti (įvairiakraštį, lygiašonį, lygiakraštį)
@@ -16,3 +19,6 @@ Sukurti puslapiai į kuriuos galima įvesti duomenis, ir gauti atsakymą (kiekvi
 Sukurtas puslapis kuriame yra įvedami metai ir išvedama kokia yra įvestų metų spalva pagal japonų kalendorių.
 
 Sprendžiant užduotį panaudotas switch sakinys.
+
+## Printscreen
+![trikampio_tikrin_japon_kalend-large](https://user-images.githubusercontent.com/117721797/214930715-9d2b391a-ae18-480b-bef8-dd7c73ff3a78.png)
